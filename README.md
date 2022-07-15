@@ -41,11 +41,11 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://hazamashoken.github.io/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hazamashoken&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hazamashoken&theme=chartreuse-dark&count_private=true&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hazamashoken&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hazamashoken&theme=chartreuse-dark&hide_border=true&count_private=true" />
   </a>
 </p>
 <br>
 
-[![Hazamashoken' Activity Graph](https://activity-graph.herokuapp.com/graph?username=hazamashoken&custom_title=HazamaShoken's%20Contribution%20Graph&theme=chartreuse-dark&bg_color=282828&hide_border=true&count_private=true&line=d1a01f&point=c58545)](https://hazamashoken.github.io/)
+[![Hazamashoken' Activity Graph](https://activity-graph.herokuapp.com/graph?username=hazamashoken&custom_title=HazamaShoken's%20Contribution%20Graph&theme=chartreuse-dark&bg_color=282828&hide_border=true&line=d1a01f&point=c58545&count_private=true)](https://hazamashoken.github.io/)
 
