@@ -2,7 +2,7 @@
   <b>Thanapol Liangsoonthornsit</b>
 </h1>
 
-Hi! I'm Thanapol Liangsoonthornsit, a student at PSB Academy in Singapore.
+Hi! I'm Thanapol Liangsoonthornsit, a student at PSB Academy in Singapore. I'm a hobbyist programmer looking to expand my arsenal of programming language I can use. Currently studying Rust. 
 
 <br>
 
@@ -16,6 +16,15 @@ Hi! I'm Thanapol Liangsoonthornsit, a student at PSB Academy in Singapore.
   </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  </a>
+  <a href="https://www.rust-lang.org/">
+    <img src="https://img.shields.io/badge/-Rust-964B00?style=for-the-badge&logo=rust&logoColor=964B00&labelColor=282828">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)#:~:text=C%20(%2F%CB%88si%CB%90%2F,capabilities%20of%20the%20targeted%20CPUs.">
+    <img src="https://img.shields.io/badge/-C lang-FFA500?style=for-the-badge&logo=c&logoColor=FFA500&labelColor=282828">
+  </a>
+  <a href="https://www.shellscript.sh/">
+    <img src="https://img.shields.io/badge/-Shell-add8e6?style=for-the-badge&logo=PowerShell&logoColor=add8e6&labelColor=282828">
   </a>
 </div>
 </p>
