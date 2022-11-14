@@ -51,7 +51,10 @@ if __name__ == '__main__':
 	<a href="https://github.com/JaeSeoKim/badge42">
 		<img src="https://badge42.vercel.app/api/v2/cl99obbxi00250gl8tzvmdyb9/stats?cursusId=21&coalitionId=208" alt="tliangso's 42 stats" />
 	</a>
+	<img src="https://www.codewars.com/users/hazamashoken/badges/large" />
 </div>
+
+
 
 <br/>
 <p align="center">
