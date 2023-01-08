@@ -2,7 +2,7 @@
   <b>Thanapol Liangsoonthornsit</b>
 </h1>
 
-Hi! I'm Thanapol Liangsoonthornsit, a student at PSB Academy in Singapore. I'm a hobbyist programmer looking to expand my arsenal of programming language I can use. Currently studying Rust. 
+Hi! I'm Thanapol Liangsoonthornsit, a student at PSB Academy in Singapore and a Cadet at 42 Bangkok. I'm a hobbyist programmer looking to expand my arsenal of programming language I can use. Currently studying Rust. 
 
 <br>
 
