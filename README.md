@@ -26,6 +26,12 @@ Hi! I'm Thanapol Liangsoonthornsit, a student at PSB Academy in Singapore and a 
   <a href="https://www.shellscript.sh/">
     <img src="https://img.shields.io/badge/-Shell-add8e6?style=for-the-badge&logo=PowerShell&logoColor=add8e6&labelColor=282828">
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=F0DB4F&labelColor=282828">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-C++-FFA500?style=for-the-badge&logo=cplusplus&logoColor=FFA500&labelColor=282828">
+  </a>
 </div>
 </p>
 
