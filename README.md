@@ -52,14 +52,14 @@ if __name__ == '__main__':
 ```
 
 ## My Statistics
-
 <div align="center">
-	<a href="https://github.com/JaeSeoKim/badge42">
-		<img src="https://badge42.vercel.app/api/v2/cl99obbxi00250gl8tzvmdyb9/stats?cursusId=21&coalitionId=208" alt="tliangso's 42 stats" />
+	<a href="https://github.com/oakoudad/badge42">
+		<img src="https://badge.mediaplus.ma/binary/tliangso?1337Badge=off&UM6P=off" alt="tliangso's 42 stats" />
 	</a>
+</div>
+<div align="center">
 	<img src="https://www.codewars.com/users/hazamashoken/badges/large" />
 </div>
-
 
 
 <br/>
