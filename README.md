@@ -65,9 +65,9 @@ if __name__ == '__main__':
 <br/>
 <p align="center">
   <a href="https://hazamashoken.github.io/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hazamashoken&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+<!--   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hazamashoken&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" /> -->
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hazamashoken&theme=chartreuse-dark&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazamashoken&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&langs_count=10&layout=compact&theme=chartreuse-dark"/>
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazamashoken&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&langs_count=10&layout=compact&theme=chartreuse-dark"/> -->
 </p>
 
   </a>
