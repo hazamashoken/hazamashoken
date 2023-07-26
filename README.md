@@ -2,38 +2,56 @@
   <b>Thanapol Liangsoonthornsit</b>
 </h1>
 
-Hi! I'm Thanapol Liangsoonthornsit, a student at PSB Academy in Singapore and a Cadet at 42 Bangkok. I'm a hobbyist programmer looking to expand my arsenal of programming language I can use. Currently studying Rust. 
+Hi! I'm Thanapol Liangsoonthornsit, a student at Coventry University and a Cadet at 42 Bangkok. I'm a hobbyist programmer looking to expand my arsenal of technologies I can use.
 
 <br>
 
-<p>
-<div align="center">
-  <a href="https://html.com/">
-    <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-  </a>
-  <a href="https://www.rust-lang.org/">
-    <img src="https://img.shields.io/badge/-Rust-964B00?style=for-the-badge&logo=rust&logoColor=964B00&labelColor=282828">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)#:~:text=C%20(%2F%CB%88si%CB%90%2F,capabilities%20of%20the%20targeted%20CPUs.">
-    <img src="https://img.shields.io/badge/-C lang-FFA500?style=for-the-badge&logo=c&logoColor=FFA500&labelColor=282828">
-  </a>
-  <a href="https://www.shellscript.sh/">
-    <img src="https://img.shields.io/badge/-Shell-add8e6?style=for-the-badge&logo=PowerShell&logoColor=add8e6&labelColor=282828">
-  </a>
+### Language
+<div>
+<h4>HLL</h4>
+<img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+<br />
+<h4>Web dev</h4>	
+<img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+<img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+<img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=F0DB4F&labelColor=282828">
+<img src="https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=TypeScript&logoColor=007acc&labelColor=282828">
+<br />
+<h4>LLL</h4>
+<img src="https://img.shields.io/badge/-C++-FFA500?style=for-the-badge&logo=cplusplus&logoColor=FFA500&labelColor=282828">
+<img src="https://img.shields.io/badge/-C lang-FFA500?style=for-the-badge&logo=c&logoColor=FFA500&labelColor=282828">
+<img src="https://img.shields.io/badge/-Rust-964B00?style=for-the-badge&logo=rust&logoColor=964B00&labelColor=282828">
+</div>
+
+### Technology
+<div>
+<h4>OS</h4>
+<img src="https://img.shields.io/badge/-Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=282828">
+<img src="https://img.shields.io/badge/-Shell-add8e6?style=for-the-badge&logo=PowerShell&logoColor=add8e6&labelColor=282828">
+<br />
+<h4>Ops</h4>
+<img src="https://img.shields.io/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=0db7ed&labelColor=282828">
+<br />
+<h4>VC</h4>
+<img src="https://img.shields.io/badge/-Git-FC6D27?style=for-the-badge&logo=git&logoColor=FC6D27&labelColor=282828">
+<img src="https://img.shields.io/badge/-Github-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=282828">
+<img src="https://img.shields.io/badge/-Gitlab-FC6D27?style=for-the-badge&logo=gitlab&logoColor=FC6D27&labelColor=282828">
+<br />
+<h4>Framework</h4>
+<img src="https://img.shields.io/badge/-Django-092e20?style=for-the-badge&logo=django&logoColor=FFFFFF&labelColor=282828">
+<img src="https://img.shields.io/badge/-Nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&labelColor=282828">
+<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
+</div>
+
+### Other Tools
+<div>
   <a href="#">
-    <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=F0DB4F&labelColor=282828">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-C++-FFA500?style=for-the-badge&logo=cplusplus&logoColor=FFA500&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Clickup-0db7ed?style=for-the-badge&logo=clickup&logoColor=0db7ed&labelColor=282828">
   </a>
 </div>
-</p>
+
+<br/>
 
 ```python
 class HazamaShoken():
