@@ -65,7 +65,7 @@ if __name__ == '__main__':
 </div>
 
 <div  align="center">
-	<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64c0d8cffcdcf9c5d50d7919?variant=dark&roadmaps=full-stack%2Cdevops" alt="roadmap.sh"/></a>
+	<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64c0d8cffcdcf9c5d50d7919?variant=dark" alt="roadmap.sh"/></a>
 </div>
 
 <div align="center">
