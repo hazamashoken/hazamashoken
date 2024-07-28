@@ -16,6 +16,7 @@ Hi! I'm Thanapol Liangsoonthornsit, a student at Coventry University and a Cadet
 <img src="https://img.shields.io/badge/-C++-FFA500?style=for-the-badge&logo=cplusplus&logoColor=FFA500&labelColor=282828">
 <img src="https://img.shields.io/badge/-C lang-FFA500?style=for-the-badge&logo=c&logoColor=FFA500&labelColor=282828">
 <img src="https://img.shields.io/badge/-Rust-964B00?style=for-the-badge&logo=rust&logoColor=964B00&labelColor=282828">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=282828">
 </div>
 
 ### Technology
