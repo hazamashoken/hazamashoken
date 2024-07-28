@@ -36,7 +36,8 @@ Hi! I'm Thanapol Liangsoonthornsit, a student at Coventry University and a Cadet
 <img src="https://img.shields.io/badge/-Git-FC6D27?style=for-the-badge&logo=git&logoColor=FC6D27&labelColor=282828">
 <img src="https://img.shields.io/badge/-Github-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=282828">
 <img src="https://img.shields.io/badge/-Gitlab-FC6D27?style=for-the-badge&logo=gitlab&logoColor=FC6D27&labelColor=282828">
-<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=3CB3837&labelColor=282828">
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=282828">
 </div>
 
 ### Other Tools
