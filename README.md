@@ -2,7 +2,7 @@
   <b>Thanapol Liangsoonthornsit</b>
 </h1>
 
-Hi! I'm Thanapol Liangsoonthornsit, a first time FullStack Software Engineer working at SUTD SA. I'm a hobbyist programmer looking to expand my arsenal of technologies I can use to conquer to world!
+Hi! I'm Thanapol Liangsoonthornsit, a first time FullStack Software Engineer working at SUTD. I'm a hobbyist programmer looking to expand my arsenal of technologies I can use to conquer to world!
 
 <br>
 
